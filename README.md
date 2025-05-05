@@ -1,0 +1,1 @@
+This is the readme for this project. This is a smaller project within the larger goal of the team's robot dog. I am not sure if we are going to use ROS, so this API is basically for timestamped data collection from all of our sensors/videos.
